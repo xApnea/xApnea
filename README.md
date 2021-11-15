@@ -14,7 +14,6 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **About Me:**
 - I am a full-stack web developer, primarily using JavaScript, Node, & React.
-- I’m currently learning __TypeScript__ & the __Godot Game Engine__.
 - Fun-Fact: I have played guitar in multiple bands and toured the US.
 - How to reach me: __jcbruno150@gmail.com__
 
