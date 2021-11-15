@@ -1,3 +1,5 @@
+<img src = "/banner.png" alt = "A banner image with John Bruno, Software Engineer text and Node, React, JavaScript subtitle">
+
 <!-- Your title -->
 ## Hello, I'm John Bruno!
 
