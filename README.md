@@ -48,8 +48,3 @@ You can use the website to generate badges: https://shields.io/
   <br />
 
 </p>
-
----
-![John's github stats](https://github-readme-stats.vercel.app/api?username=xApnea&count_private=true)
-
----
